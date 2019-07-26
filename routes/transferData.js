@@ -3,7 +3,7 @@ var router = express.Router();
 
 router.get("/", function(req, res, next) {
 	let jsonData = require('./Files/Data.json');
-	//console.log(jsonData.Mso[0][1]);
+	console.log("router.get()" + jsonData.rowsData[0].name);
 	res.json(jsonData);
 });
 
