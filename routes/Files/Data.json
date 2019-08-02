@@ -5,8 +5,24 @@
             "name":"Алеутский район",
             "items":[ 
               { 
-                "id":1.1,
-                "name":"село"
+                "id":2.1,
+                "name":"с. Никольское",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. 50 лет Октября, 32",
+                    "level": "RASCO",
+                    "latitude": 55.196937, 
+                    "longitude": 165.995093
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. 50 лет Октября, 13",
+                    "level": "RASCO",
+                    "latitude": 55.2,
+                    "longitude": 166.0
+                  }
+                ]
               }
             ]
           },
@@ -16,7 +32,23 @@
             "items":[ 
               { 
                 "id":2.1,
-                "name":"село"
+                "name":"с. Эссо",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Терешкова, 1",
+                    "level": "RASCO",
+                    "latitude": 55.928626,
+                    "longitude": 158.703754
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Южная, 3",
+                    "level": "RASCO",
+                    "latitude":  55.922566, 
+                    "longitude": 158.695879
+                  }
+                ]
               }
             ]
           },
@@ -25,8 +57,70 @@
             "name":"Елизовский район",
             "items":[ 
               { 
-                "id":3.1,
-                "name":"село"
+                "id":2.1,
+                "name":"п. Долиновка",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Спортивная, 6",
+                    "level": "RASCO",
+                    "latitude": 52.993071, 
+                    "longitude": 158.76817
+                  }
+                ]
+              },
+              { 
+                "id":2.1,
+                "name":"п. Заозерный",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Новая, 11",
+                    "level": "RASCO",
+                    "latitude": 53.013428, 
+                    "longitude": 158.793952
+                  }
+                ]
+              },
+              { 
+                "id":2.1,
+                "name":"п. Завойко",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Петра Ильичева, 80",
+                    "level": "RASCO",
+                    "latitude": 52.958019, 
+                    "longitude": 158.674955
+                  }
+                ]
+              },
+              { 
+                "id":2.1,
+                "name":"г. Петропавловск-Камчатский",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Площадь Ленина, 1",
+                    "level": "RASCO",
+                    "latitude": 53.022944, 
+                    "longitude": 158.647101
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Ленинградская, 25",
+                    "level": "RASCO",
+                    "latitude": 53.033001, 
+                    "longitude": 158.643844
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Бохняка, 13",
+                    "level": "RASCO",
+                    "latitude": 53.060964, 
+                    "longitude": 158.624601
+                  }
+                ]
               }
             ]
           },
@@ -35,8 +129,96 @@
             "name":"Карагинский район",
             "items":[ 
               { 
-                "id":0.1,
-                "name":"село"
+                "id":0,
+                "name":"п. Оссора",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Советская, 37",
+                    "level": "RASCO",
+                    "latitude":  59.254716, 
+                    "longitude": 163.074983
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Советская, 100",
+                    "level": "RASCO",
+                    "latitude": 59.244029, 
+                    "longitude": 163.068266
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"п. Ивашка",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Левченко, д. 18",
+                    "level": "RASCO",
+                    "latitude": 58.563956,
+                    "longitude": 162.295533
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Юрьева, 7",
+                    "level": "RASCO",
+                    "latitude":  58.7, 
+                    "longitude": 162.4
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"п. Карага",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Лукашевского, 14",
+                    "level": "RASCO",
+                    "latitude": 59.109333, 
+                    "longitude": 163.121696
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Кострома",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Центральная, 12",
+                    "level": "RASCO",
+                    "latitude": 59.039815, 
+                    "longitude": 163.166413
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Ильпырьское",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Ленинская, 7",
+                    "level": "RASCO",
+                    "latitude": 59.961843, 
+                    "longitude": 164.188464
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Тымлат",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Комарова, 15",
+                    "level": "RASCO",
+                    "latitude": 59.493212, 
+                    "longitude": 163.181263
+                  }
+                ]
               }
             ]
           },
@@ -54,6 +236,34 @@
                     "level": "RASCO",
                     "latitude": 54.694249,
                     "longitude": 158.624232
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Полевая 1а",
+                    "level": "RASCO",
+                    "latitude": 54.706041, 
+                    "longitude": 158.648887
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Строительная, 15а",
+                    "level": "RASCO",
+                    "latitude": 54.695874, 
+                    "longitude": 158.613031
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Томская, 20",
+                    "level": "RASCO",
+                    "latitude": 54.687353, 
+                    "longitude": 158.601723
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Ленинская, 28",
+                    "level": "RASCO",
+                    "latitude": 54.696258, 
+                    "longitude": 158.630283
                   }
                 ]
               }
@@ -65,7 +275,94 @@
             "items":[ 
               { 
                 "id":0,
-                "name":"село"
+                "name":"с. Тиличики",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Подгорная, 33а",
+                    "level": "RASCO",
+                    "latitude": 60.434823, 
+                    "longitude": 166.076332
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Вывенка",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Центральная, 17",
+                    "level": "RASCO",
+                    "latitude": 60.187463, 
+                    "longitude": 165.458544
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Пахачи",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Центральная, 33",
+                    "level": "RASCO",
+                    "latitude": 60.556594, 
+                    "longitude": 169.142075
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Апука",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Центральная, 7",
+                    "level": "RASCO",
+                    "latitude": 60.454235,
+                    "longitude": 169.585305
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Хаилино",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул.Центральная 16а",
+                    "level": "MSO",
+                    "latitude": 60.960319, 
+                    "longitude": 166.865330 
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Средние Пахачи",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул.Центральная 49",
+                    "level": "MSO",
+                    "latitude": 60.828474, 
+                    "longitude": 169.066372
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Ачайваям",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул.Оленеводов 16а",
+                    "level": "MSO",
+                    "latitude": 61.007240, 
+                    "longitude": 170.504551
+                  }
+                ]
               }
             ]
           },
@@ -74,8 +371,50 @@
             "name":"Пенжинский район",
             "items":[ 
               { 
+                "id": 0,
+                "name":"с. Каменское",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Ленина, 12",
+                    "level": "RASCO",
+                    "latitude": 62.468779, 
+                    "longitude": 166.204069
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Ленина, 21",
+                    "level": "RASCO",
+                    "latitude": 62.472, 
+                    "longitude": 166.2242
+                  }
+                ]
+              },
+              { 
                 "id":0,
-                "name":"село"
+                "name":"с. Слаутное",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Юности, 2",
+                    "level": "MSO",
+                    "latitude": 63.169546, 
+                    "longitude": 167.972031
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"с. Таловка",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Советская, 13",
+                    "level": "MSO",
+                    "latitude": 62.050346, 
+                    "longitude": 166.704312
+                  }
+                ]
               }
             ]
           },
@@ -84,23 +423,79 @@
             "name":"Соболевский район",
             "items":[ 
               { 
-                "id":0,
-                "name":"село"
+                "id":2.1,
+                "name":"с. Соболево",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Советская, 26",
+                    "level": "RASCO",
+                    "latitude": 54.297645, 
+                    "longitude": 155.941873
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Набережная, 46",
+                    "level": "RASCO",
+                    "latitude": 54.302127, 
+                    "longitude": 155.947238
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Октябрьская, д. 5",
+                    "level": "RASCO",
+                    "latitude": 54.157535, 
+                    "longitude": 155.842975
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Сахалинская, 48",
+                    "level": "RASCO",
+                    "latitude": 54.3, 
+                    "longitude": 156.0
+                  }
+                ]
               }
             ]
           },
           {
             "id":0,
             "name":"Тигильский район",
-            "items":[
+            "items":[ 
+              { 
+                "id":2.1,
+                "name":"с. Тигиль",
+                "items":[
                   {
-                    "id":0,
-                    "name":"_",
-                    "level":"_",
-                    "latitude":0,
-                    "longitude":0
+                    "id": 0,
+                    "name": "ул. Партизанская, 17",
+                    "level": "RASCO",
+                    "latitude": 57.758152, 
+                    "longitude": 158.679057
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Толстихина, 13",
+                    "level": "RASCO",
+                    "latitude": 57.760509, 
+                    "longitude": 158.685129
                   }
                 ]
+              },
+              { 
+                "id":2.1,
+                "name":"с. Усть-Хайрюзово",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Школьная, 7",
+                    "level": "RASCO",
+                    "latitude": 57.092993, 
+                    "longitude": 156.736451
+                  }
+                ]
+              }
+            ]
           },
           {
             "id":0,
@@ -139,6 +534,19 @@
                     "longitude":156.521380
                   }
                 ]
+              },
+              { 
+                "id":2.1,
+                "name":"с. Кавалерское",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ОТСУТСТВУЕТ АДРЕС",
+                    "level": "MSO",
+                    "latitude": 0,
+                    "longitude": 0
+                  }
+                ]
               }
             ]
           },
@@ -148,7 +556,62 @@
             "items":[ 
               { 
                 "id":0,
-                "name":"село"
+                "name":"п. Усть-Камчатск",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. 60 лет Октября, 24",
+                    "level": "RASCO",
+                    "latitude": 0,
+                    "longitude": 1
+                  },
+                  {
+                    "id": 0,
+                    "name": "ул. Кооперативная, 5а",
+                    "level": "RASCO",
+                    "latitude": 56.240811, 
+                    "longitude": 162.524314
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"п. Ключи",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Кирова, 130",
+                    "level": "RASCO",
+                    "latitude": 56.320893, 
+                    "longitude": 160.849951
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"п. Козыревск",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Чехова 2а",
+                    "level": "MSO",
+                    "latitude": 56.320893, 
+                    "longitude": 160.849951
+                  }
+                ]
+              },
+              { 
+                "id":0,
+                "name":"c. Майское",
+                "items":[
+                  {
+                    "id": 0,
+                    "name": "ул. Камсомольская 9",
+                    "level": "MSO",
+                    "latitude": 56.255939,  
+                    "longitude": 160.062218
+                  }
+                ]
               }
             ]
           }
