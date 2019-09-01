@@ -11,14 +11,14 @@
                   {
                     "id": 3,
                     "name": "ул. 50 лет Октября, 32",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 55.196937,
                     "longitude": 165.995093
                   },
                   {
                     "id": 4,
                     "name": "ул. 50 лет Октября, 13",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 55.2,
                     "longitude": 166.0
                   }
@@ -102,21 +102,21 @@
                   {
                     "id": 17,
                     "name": "ул. Площадь Ленина, 1",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 53.022944,
                     "longitude": 158.647101
                   },
                   {
                     "id": 18,
                     "name": "ул. Ленинградская, 25",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 53.033001,
                     "longitude": 158.643844
                   },
                   {
                     "id": 19,
                     "name": "ул. Бохняка, 13",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 53.060964,
                     "longitude": 158.624601
                   }
@@ -135,14 +135,14 @@
                   {
                     "id": 22,
                     "name": "ул. Советская, 37",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude":  59.254716,
                     "longitude": 163.074983
                   },
                   {
                     "id": 23,
                     "name": "ул. Советская, 100",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 59.244029,
                     "longitude": 163.068266
                   }
@@ -155,14 +155,14 @@
                   {
                     "id": 25,
                     "name": "ул. Левченко, д. 18",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 58.563956,
                     "longitude": 162.295533
                   },
                   {
                     "id": 26,
                     "name": "ул. Юрьева, 7",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude":  58.7,
                     "longitude": 162.4
                   }
@@ -175,7 +175,7 @@
                   {
                     "id": 28,
                     "name": "ул. Лукашевского, 14",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 59.109333,
                     "longitude": 163.121696
                   }
@@ -188,7 +188,7 @@
                   {
                     "id": 30,
                     "name": "ул. Центральная, 12",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 59.039815,
                     "longitude": 163.166413
                   }
@@ -201,7 +201,7 @@
                   {
                     "id": 32,
                     "name": "ул. Ленинская, 7",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 59.961843,
                     "longitude": 164.188464
                   }
@@ -214,7 +214,7 @@
                   {
                     "id": 34,
                     "name": "ул. Комарова, 15",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 59.493212,
                     "longitude": 163.181263
                   }
@@ -280,7 +280,7 @@
                   {
                     "id": 44,
                     "name": "ул. Подгорная, 33а",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 60.434823,
                     "longitude": 166.076332
                   }
@@ -293,7 +293,7 @@
                   {
                     "id": 46,
                     "name": "ул. Центральная, 17",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 60.187463,
                     "longitude": 165.458544
                   }
@@ -306,7 +306,7 @@
                   {
                     "id": 48,
                     "name": "ул. Центральная, 33",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 60.556594,
                     "longitude": 169.142075
                   }
@@ -319,7 +319,7 @@
                   {
                     "id": 50,
                     "name": "ул. Центральная, 7",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 60.454235,
                     "longitude": 169.585305
                   }
@@ -489,7 +489,7 @@
                   {
                     "id": 76,
                     "name": "ул. Школьная, 7",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 57.092993,
                     "longitude": 156.736451
                   }
@@ -561,14 +561,14 @@
                   {
                     "id": 87,
                     "name": "ул. 60 лет Октября, 24",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 0,
                     "longitude": 1
                   },
                   {
                     "id": 88,
                     "name": "ул. Кооперативная, 5а",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 56.240811,
                     "longitude": 162.524314
                   }
@@ -614,6 +614,6 @@
                 ]
               }
             ]
-          }
+          }					
     ]
 }
