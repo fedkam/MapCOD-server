@@ -63,7 +63,7 @@
                   {
                     "id": 11,
                     "name": "ул. Спортивная, 6",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 52.993071,
                     "longitude": 158.76817
                   }
@@ -76,7 +76,7 @@
                   {
                     "id": 13,
                     "name": "ул. Новая, 11",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 53.013428,
                     "longitude": 158.793952
                   }
@@ -89,7 +89,7 @@
                   {
                     "id": 15,
                     "name": "ул. Петра Ильичева, 80",
-                    "level": "RASCO",
+                    "level": "KSEON",
                     "latitude": 52.958019,
                     "longitude": 158.674955
                   }
@@ -523,14 +523,14 @@
                     "name":"Бочкарева,  10",
                     "level":"RASCO",
                     "latitude":52.826082,
-                    "longitude":156.279067
+                    "longitude": 156.279067
                   },
                   {
                     "id":81,
                     "name":"Комсомольская, 3",
                     "level":"RASCO",
-                    "latitude":0,
-                    "longitude":0
+                    "latitude": 52.828000,
+                    "longitude":156.281000
                   }
                 ]
               },
@@ -598,10 +598,10 @@
                 "items":[
                   {
                     "id": 87,
-                    "name": "ул. 60 лет Октября, 24",
+                    "name": "ОТСУТСТВУЕТ ул. 60 лет Октября, 24",
                     "level": "KSEON",
-                    "latitude": 0,
-                    "longitude": 1
+                    "latitude": 56.241000,
+                    "longitude": 162.527000
                   },
                   {
                     "id": 88,
@@ -668,7 +668,7 @@
           },
 					{
             "id":97,
-            "name":"Петропавловс-Камчатский",
+            "name":"Петропавловск-Камчатский",
             "items":[
 							{
 								"id": 98,
