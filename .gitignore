@@ -30,6 +30,4 @@ $RECYCLE.BIN/
 
 # All txt file
 *.txt
-*/node_modules
-
-# End of https://www.gitignore.io/api/windows
+node_modules
