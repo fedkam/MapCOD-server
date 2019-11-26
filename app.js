@@ -12,6 +12,14 @@ var transferDataRouter = require("./routes/transferData");
 
 var app = express();
 
+var mongoose = require('mongoose');
+var mongoDB = 'mongodb://127.0.0.1/alertgroup';
+mongoose.connect(mongoDB);
+mongoose.Promise = global.Promise; // Позволим Mongoose использовать глобальную библиотеку промисов
+var db = mongoose.connection; // Получение подключения по умолчанию
+db.on('error', console.error.bind(console, 'MongoDB connection error:'));// Привязать подключение к событию ошибки  (получать сообщения об ошибках подключения)
+
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');

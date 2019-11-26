@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1= title
+
+  ul
+  each district in district_list
+    li
+      a(href=district.url) Name=#{district.name} ID= #{district._id}
+        ul
+          li
+            p #{district.items}
+
+  elses
+    li There are no books.
