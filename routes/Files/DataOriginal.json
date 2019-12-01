@@ -21,8 +21,7 @@
                     "level": "KSEON",
                     "latitude": 55.2,
                     "longitude": 166.0
-                  },
-									{"_id": 999, "name": "ул. Центральная, 1",   "level": "KSEON",   "latitude": 60.187171,   "longitude": 165.464483 }
+                  }
                 ]
               }
             ]
