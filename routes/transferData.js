@@ -9,6 +9,6 @@ router.get("/getDistrictDataFromServerFile", function(req, res, next) {
 	res.json(jsonData);
 });
 
-router.get("/getDistrictDDataFromMongoDB", district_controller.list_district_to_client);
+router.get("/getDistrictDataFromMongoDB", district_controller.list_district_to_client);
 
 module.exports = router;
