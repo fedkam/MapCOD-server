@@ -1,6 +1,7 @@
 var mongoose = require('mongoose');
-
 var Schema = mongoose.Schema;
+var Village = require('../models/village');
+
 
 var DistrictSchema = new Schema(
   {

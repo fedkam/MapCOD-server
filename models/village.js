@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
-
 var Schema = mongoose.Schema;
+var Street = require('../models/street');
 
 var VillageSchema = new Schema(
   {
